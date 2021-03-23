@@ -1,0 +1,60 @@
+body {
+    background-color:#CD9777;
+}
+
+        #name {
+            font-style: italic;
+            font-family: fantasy;
+            text-align: center;
+        }
+
+        #description {
+            font-family: 'Courier New', Courier, monospace;
+            color:darkblue;
+        }
+
+        strong {
+            color: darkred;
+        }
+
+        .item1 {
+            font-size: 25px;
+            
+
+        }
+
+        .item2 {
+            font-size: 70px;
+        }
+
+        .item3 {
+            font-size: 10px;
+        }
+
+        .item4 {
+            font-size: 50px ;
+
+        }
+
+        p {
+         display: inline-block;
+        }
+
+        .style-img{
+            padding: 10px;
+            background-color:rgb(16, 95, 16);
+            border-radius: 20px;
+            
+        }
+
+        ul {
+            padding: 30px;
+            border: 20px;
+                background-color: rgb(226, 73, 73);
+        }
+
+        li:nth-of-type(odd){
+            text-align: center;
+            font-size: xx-large;
+            color: rgb(16, 95, 16);
+        }
